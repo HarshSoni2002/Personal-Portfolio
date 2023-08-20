@@ -31,7 +31,7 @@ const Services = () => {
           whileInView={animations.whileInView}
           initial={animations.one}
         >
-          <h3>350+</h3>
+          <h3>400+</h3>
           <p>Problem Solved</p>
         </motion.div>
 
